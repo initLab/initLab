@@ -1,0 +1,83 @@
+# Regulations of init Lab
+
+## General
+
+1. Regulations of init Lab inherit and expand the laws of the country of Bulgaria.
+2. Every Visitor of init Lab is obligated to follow its Regulations.
+3. *Visitors* are everyone who happen to be in init Lab no matter if they are Members or not.
+4. These Regulations are dynamic and can be changed at all times by the Council.
+   It's current version will always be available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
+5. For each case not mentioned in the Regulations the Council may take
+   solution in place and it can enter into force immediately.
+6. The english version of the Regulations you are now reading
+   is to be used for convenience only. The only valid Regulations are those in Bulgarian published
+   at [http://initlab.org/правилник/](http://initlab.org/правилник/).
+
+## Membership
+
+1. Member is each visitor who paid the Membership Subscription for that month.
+2. The *minimum* Membership Subscription per month is 30 leva.
+3. A new Member's obligation is to bring his own cup, which represents him in his absence.
+4. The week before the end of the month each member is obliged to pay their Membership
+   Subscription for the next month or to warn that he is withdrawing his Membership for next month.
+5. Non-payment of Membership Subscription by the end of the month ends a
+   Membership until the next payment.
+6. Members of init Lab who have a key are required to pay their Membership Subscription until
+   the end of the first week of the month or to return their key in the same period.
+   If a Member fails to do this without warning prior to their delay they own a Membership Subscription
+   for the month and need to return their key regardless.
+7. The Council may decide to prohibit access to init Lab of a problematic
+   Visitor after voting, approved or attended by root.
+8. Members sign the Membership Book of init Lab, with which they declare that
+   they aware of and agree with the Regulations.
+9. Members who have access to init Lab (using keys or derived technology)
+   must register in fauna.initlab.org to reflect their presence while they are in init Lab.
+10. Each Member is added to the Members' mailing list and is irradiated with
+    the important happenings in init Lab.
+
+## Hygiene
+
+1. Every Visitor is obliged to leave init Lab in the same or better state than the one
+   they found it in.
+2. *Smoking* in init Lab is prohibited.
+3. Placing *and using narcotic substances and drugs are* STRICTLY
+   prohibited.
+4. In the working areas of init Lab listening to music without headphones is allowed only if this
+   is OK with everyone else.
+5. Noise pollution is a mortal enemy of init Lab's settlement system!
+6. Food without label in the refrigerator, absent from the price list of the buffet, can be
+   consumed freely, and on Friday evening thrown away without warning.
+
+## Resources
+
+1. Init Lab Resources are those items that are left for use
+   in init Lab and have no explicit owner.
+2. Resources are used by all Visitors of init Lab, as Members have priority.
+3. Each of init Lab's financial operations is transparent to Members of init Lab
+   and the society. All reports are published at
+   [http://initlab.org/about/reports/](http://initlab.org/about/reports/).
+4. All expenses of init Lab approved by the Council are covered by init Lab's financial
+   funds currently available or soon to be available.
+5. *Keys and codes* for the security system are available *only for Council approved
+    members*.
+
+## Management
+
+1. The Council of init Lab consists of five people. Four members of the organization
+   and root.
+2. root is the person who takes full responsibility for init Lab to the property owner
+   and the public.
+3. root is Vladimir Yordanov Vassilev.
+4. Members of The Council are responsible for ensuring and improving working conditions and
+   security of the physical space, fixing occurred damage to equipment and furniture.
+5. root is responsible for the reporting of revenue and expenditure of init Lab.
+6. Members of the Council are elected and excluded with a voted Council decision
+   approved or attended by root.
+7. If there is conflict between Members arbitrator is root or the Council.
+8. Decisions of the Council are taken into action if at least 2 Council Members voted 'FOR', and lack of
+   Council Members who voted "AGAINST".
+9. A valid decision taken by the Council is one where at least 50% of the Council Members have voted
+   or root has participated in the vote.
+10. root can veto any decision made by the Council.
+11. Upon withdrawal, root solely decides who should be his successor.
+12. The Council must publish any decision it has made on init Lab's website.
