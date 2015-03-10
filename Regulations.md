@@ -2,24 +2,24 @@
 
 ## General
 
-1. Regulations of init Lab inherit and expand the laws of the country of Bulgaria.
+1. The Regulations of init Lab inherit and expand the laws of the country of Bulgaria.
 2. Every Visitor of init Lab is obligated to follow its Regulations.
 3. *Visitors* are everyone who happen to be in init Lab no matter if they are Members or not.
-4. These Regulations are dynamic and can be changed at all times by the Council.
-   It's current version will always be available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
-5. For each case not mentioned in the Regulations the Council may take
-   solution in place and it can enter into force immediately.
+4. The Regulations are dynamic and can be changed at any time by the Council.
+   The Regulations' current version will always be available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
+5. For every case which is not mentioned in the Regulations, the Council can amend
+   the Regulations and the amendments enter into force immediately.
 6. The english version of the Regulations you are now reading
    is to be used for convenience only. The only valid Regulations are those in Bulgarian published
    at [http://initlab.org/правилник/](http://initlab.org/правилник/).
 
 ## Membership
 
-1. Member is each visitor who paid the Membership Subscription for that month.
+1. A Member is a visitor who paid their Membership Subscription for that month.
 2. The *minimum* Membership Subscription per month is 30 leva.
-3. A new Member's obligation is to bring his own cup, which represents him in his absence.
-4. The week before the end of the month each member is obliged to pay their Membership
-   Subscription for the next month or to warn that he is withdrawing his Membership for next month.
+3. A new Member's obligation is to bring their own cup, which represents them in their absence.
+4. Each member is required to pay their Membership Subscription in the last week of the month,
+   or to warn the Council that their Membership Subscription will be withdrawn for the next month.
 5. Non-payment of Membership Subscription by the end of the month ends a
    Membership until the next payment.
 6. Members of init Lab who have a key are required to pay their Membership Subscription until
