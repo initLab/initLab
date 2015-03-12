@@ -5,7 +5,7 @@
 1. The Regulations of init Lab inherit and expand the laws of the country of
    Bulgaria.
 2. Every Visitor of init Lab is obligated to follow its Regulations.
-3. *Visitors* are everyone who happen to be in init Lab no matter if they are
+3. *Visitors* are all people that happen to be in init Lab no matter if they are
    Members or not.
 4. The Regulations are dynamic and can be changed at any time by the
    Council. The Regulations' current version will always be available at
@@ -28,9 +28,9 @@
 5. Non-payment of Membership Subscription by the end of the month ends a
    Membership until the next payment.
 6. Members of init Lab who have a key are required to pay their Membership
-   Subscription until the end of the first week of the month or to return their
-   key in the same period.  If a Member fails to do this without warning prior
-   to their delay they own a Membership Subscription for the month and need to
+   Subscription before the end of the first week of the month or to return their
+   key in the same period. If a Member fails to do this without warning prior to
+   their delay, they own a Membership Subscription for the month and need to
    return their key regardless.
 7. The Council may decide to prohibit access to init Lab of a problematic
    Visitor after voting, approved or attended by root.
@@ -57,7 +57,7 @@
 
 ## Resources
 
-1. Init Lab Resources are those items that are left for use in init Lab and have
+1. init Lab Resources are those items that are left for use in init Lab and have
    no explicit owner.
 2. Resources are used by all Visitors of init Lab, as Members have priority.
 3. Each of init Lab's financial operations is transparent to Members of init Lab
@@ -76,14 +76,14 @@
    owner and the public.
 3. root is Vladimir Yordanov Vassilev.
 4. Members of The Council are responsible for ensuring and improving working
-   conditions and security of the physical space, fixing occurred damage to
+   conditions and security of the physical space, fixing damage caused to
    equipment and furniture.
 5. root is responsible for the reporting of revenue and expenditure of init Lab.
 6. Members of the Council are elected and excluded with a voted Council decision
    approved or attended by root.
-7. If there is conflict between Members arbitrator is root or the Council.
+7. If there is conflict between Members, arbitrator is root or the Council.
 8. Decisions of the Council are taken into action if at least 2 Council Members
-   voted 'FOR', and lack of Council Members who voted "AGAINST".
+   voted 'FOR', and no Council Members voted 'AGAINST'.
 9. A valid decision taken by the Council is one where at least 50% of the
    Council Members have voted or root has participated in the vote.
 10. root can veto any decision made by the Council.
