@@ -9,7 +9,7 @@
    The Regulations' current version will always be available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
 5. For every case which is not mentioned in the Regulations, the Council can amend
    the Regulations and the amendments enter into force immediately.
-6. The english version of the Regulations you are now reading
+6. The English version of the Regulations you are now reading
    is to be used for convenience only. The only valid Regulations are those in Bulgarian published
    at [http://initlab.org/правилник/](http://initlab.org/правилник/).
 
