@@ -10,7 +10,7 @@ Ports
 -----
 
 * 1 - ripe atlas
-* 2 - control
+* 2 - relay control
 * 3 - door pi
 * 24 - emergency mgmt
 * 25 - bob (trunk)
