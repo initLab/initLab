@@ -12,5 +12,3 @@ Checklist for the last person to leave the lab
 * Turn off the inside and outside lights.
 * Open the entrance door and press the red button on the white box above the switchboard.
 * After you get out, the door will be locked (it makes a very distinctive sound).
-* Lock the gate with the padlock.
-
