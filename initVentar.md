@@ -9,11 +9,15 @@ The asset management itself is nothing more than a library-like asset database w
 Key features for the asset management module of initVentar:
 - Add/remove asset [only by board members];
 - Borrowing assets to initLab members;
+- List items borrowed by a member;
+- List of currently borrowed items;
+- Limit members with permission to borrow stuff;
 - Asset properties:
   - Owner
   - Responsible person (shorter?) email
   - Hackable
   - Movable
+  - Borrowable
   - Barcode (TYPE-IDXXXXX)
   - Brand
   - Model
