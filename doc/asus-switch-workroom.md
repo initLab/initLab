@@ -20,25 +20,27 @@ Ports
 * 12 - pp 11/studio
 * 13 - pp 13/lecture hall
 * 14 - pp 22/
-* 19 - switch to bob (trunk)
+* 15 - ripe atlas
+* 19 - coridor rack (trunk)
 * 20 - doorpi
 * 21 - emergency mgmt
+* 22 - cassie (trunk)
 
 Vlans
 -----
 
 * 1 - mgmt
 	* native/untagged 19
-	* untagged 21
+	* untagged 21, 22
 * 2 - lan
 	* ports 4-18 untagged
-	* port 19 tagged
+	* port 19, 22 tagged
 * 5 - onlinedirect
 	* port 1 untagged
-	* port 19 tagged
+	* port 19, 22 tagged
 * 6 - tbc
 	* port 2 untagged
-	* port 19 tagged
+	* port 19, 22 tagged
 * 8 - doorpi
 	* port 20 untagged
-	* port 19 tagged
+	* port 19, 22 tagged
