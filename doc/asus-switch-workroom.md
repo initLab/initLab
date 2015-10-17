@@ -8,21 +8,21 @@ Asus switch/workroom
 Ports
 -----
 
-* 1 - pp1/online direct
-* 2 - tbc
-* 5 - airport
+DONE * 1 - pp1/online direct
+DONE * 2 - tbc
+DONE * 5 - airport
 * 6 - pp 12/studio
-* 7 - pp 26/aquarium
-* 8 - pp 4/ruby room, chernobyl
-* 9 - pp 14/lecture hall, TMI
+DONE * 7 - pp 17/printer
+DONE * 8 - pp 4/ruby room, chernobyl
+DONE * 9 - pp 14/lecture hall, TMI
 * 10 - pp 15/lecture hall/bench
 * 11 - pp 6/lecture hall/door
 * 12 - pp 11/studio
 * 13 - pp 13/lecture hall
 * 14 - pp 22/
 * 15 - ripe atlas
-* 19 - coridor rack (trunk)
-* 20 - doorpi
+DONE * 19 - coridor rack (trunk)
+DONE * 20 - doorpi
 * 21 - emergency mgmt
 * 22 - cassie (trunk)
 
