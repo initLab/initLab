@@ -16,7 +16,7 @@ DONE * 7 - pp 17/printer
 DONE * 8 - pp 4/ruby room, chernobyl
 DONE * 9 - pp 14/lecture hall, TMI
 * 10 - pp 15/lecture hall/bench
-* 11 - pp 6/lecture hall/door
+DONE * 11 - hackvarium, pp 26
 * 12 - pp 11/studio
 * 13 - pp 13/lecture hall
 * 14 - pp 22/
