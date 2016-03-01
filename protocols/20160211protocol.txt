@@ -1,0 +1,89 @@
+intiLab управителен съвет, 11 февруари 2016
+===========================================
+
+Обсъдихме issues в github, резултатът:
+
+krokodilerian opened issue initLab/initLab#96
+Изнасяне на бялата пейка от лекционната 
+
+krokodilerian opened issue initLab/initLab#95
+Прозорец за кухнята 
+
+krokodilerian opened issue initLab/initLab#94
+Разширение на хаквариума 
+
+krokodilerian opened issue initLab/initLab#93
+Графити по стената на строежа от страната на лаба 
+
+krokodilerian commented on issue initLab/initLab#19
+План за действие: @isld проучва откъде да вземе сачак и другите нужни материали за ремонта на покрива, колко ще струват и колко пари ще отидат за…
+
+krokodilerian commented on issue initLab/initLab#24
+@isld ще търси железар, навил се е на УС от 11 ноември 2015. @ignisf е навит да бара на @isld електрожена.
+
+krokodilerian commented on issue initLab/initLab#36
+За след ремонта на тоалетната. (#92)
+
+krokodilerian commented on issue initLab/initLab#37
+@batruji да уговори регулярно посещаване на лаба от дамата.
+
+krokodilerian closed issue initLab/initLab#38
+Обявяване на WordPress For Good практическия курс 
+
+krokodilerian commented on issue initLab/initLab#38
+wordpress не може да се използва за правене на добро, затваряме. (@vloo няма време)
+
+krokodilerian closed issue initLab/initLab#45
+Аналогов телефон до входната врата за отваряне 
+
+krokodilerian commented on issue initLab/initLab#45
+Инсталирахме булфоня.
+
+isld commented on issue initLab/initLab#50
+Ик хеб хедун!
+
+isld closed issue initLab/initLab#50
+Задачки за Пешо 
+
+krokodilerian closed issue initLab/initLab#53
+Организиране на ежеседмично събиране на членовете 
+
+krokodilerian commented on issue initLab/initLab#53
+Няма кой да го организира, затваряме го.
+
+krokodilerian commented on issue initLab/initLab#66
+@isld ще го затвори, като реши.
+
+krokodilerian commented on issue initLab/initLab#69
+На пролет @vlood ще го прави наново.
+
+krokodilerian closed issue initLab/initLab#76
+"Отворени врати" на Лаба 
+
+krokodilerian commented on issue initLab/initLab#76
+Прие се, че трябва да се случи естествено, затваряме го.
+
+krokodilerian commented on issue initLab/initLab#76
+Предложение на @isld - лабаир. На @batruji - лабинар.
+
+krokodilerian commented on issue initLab/initLab#78
+За напролет (2016).
+
+krokodilerian commented on issue initLab/initLab#82
+Сложили сме кофа. @batruji ще търси кой да го ремонтира.
+
+krokodilerian commented on issue initLab/initLab#83
+@vlood , напомняме ти да подадеш сигнал.
+
+krokodilerian commented on issue initLab/initLab#88
+The boxes are being installed by @isld .
+
+krokodilerian commented on issue initLab/initLab#89
+@vlood да намери нови хора, тия се оказаха несериозни.
+
+krokodilerian commented on issue initLab/initLab#90
+Остава за лятото.
+
+krokodilerian commented on issue initLab/initLab#92
+@isld ще се опита да намери тоалетен блок, който да монтираме.
+
