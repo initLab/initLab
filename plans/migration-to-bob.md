@@ -5,7 +5,7 @@
 
 ### Хардуер
 
-* реле за отваряне на вратата - DONE
+* DONE реле за отваряне на вратата
 	* мигрирано на neomontana-та
 * мрежова карта с mac адрес, дето ни го знаят доставчиците
 
@@ -56,8 +56,8 @@
 
 ### Предварително
 
-* native vlan 1 на порта на bob - DONE
-* bgp daemon на bob - DONE
+* DONE native vlan 1 на порта на bob и другите нужни vlan-и
+* DONE bgp daemon на bob
 * renumber на fauna на отделно ip
 * install на bind9 и конфигуриране
 * местене на lamps скрипта
