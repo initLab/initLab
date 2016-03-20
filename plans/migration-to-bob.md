@@ -19,23 +19,70 @@
 * ip6 тунели до tyler през TBC
 * openvpn до tyler за v4 и v6 през OD
 * openvpn до Мартин
+	* не се ползва
 * chaosVPN връзка
 
 
 ### софтуер
 
 * asterisk
+* arpwatch
+	* има някакви мои patch-ове за да не реве
 * fauna
+	* има копие на bob
 * mrtg
 * lamps
 * dhcpd
 * bind9
 * mpd
+	* няма нужда от него
 * client175 (web контрол за mpd)
+	* няма нужда от него
+* samba
+	* отдавна никой не го ползва
+	* стои там музиката на лаба
 * chaosvpn
 * radvd
 * bgpd/quagga
+	* ще се смени с bird, има вече подкаран на bob
 * nginx
 	* cassie.initlab.org cassie.ludost.net
 	* fauna.initlab.org
 	* vk.initlab.ludost.net
+* метеорологичната станция
+
+
+## План
+
+### Предварително
+
+* native vlan 1 на порта на bob - DONE
+* bgp daemon на bob - DONE
+* renumber на fauna на отделно ip
+* install на bind9 и конфигуриране
+* местене на lamps скрипта
+* копиране на музиката
+* местене на mrtg
+* местене на метеорологичната станция
+* Вдигане на тунели до marla и tyler
+
+### местене
+
+* start downtime
+* местене на v4 и v6 gw адресите до bob
+* спиране на dhcpd на cassie
+* копиране на dhcpd конфигурацията и пускане
+* спиране на radvd-то на cassie
+* копиране и пускане на radvd на bob
+* гасене на fauna
+* dump на базата на fauna, преливане на bob
+* местене на ip-то на fauna на bob
+* палене на fauna на bob
+* звънене на OD да сменим mac адреса
+
+
+### Тестване
+
+* Звънене на телефона
+* fauna - отваряне, отключване, заклюване
+* dhcp/свързаност за локалната мрежа
