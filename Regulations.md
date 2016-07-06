@@ -79,8 +79,8 @@
    equipment and furniture.
 4. The Council is responsible for the reporting of revenue and expenditure of
    init Lab.
-5. Members of the Council are elected and excluded with a voted Council
-   decision.
+5. Members of the Council are elected and excluded by a decision of the general
+   meeting of the members of init Lab.
 6. If there is conflict between Members, arbitrator is the Council.
 7. Decisions of the Council are taken into action if at least 2 Council Members
    voted 'FOR', and no Council Members voted 'AGAINST'.
