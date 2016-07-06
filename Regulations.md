@@ -7,9 +7,9 @@
 2. Every Visitor of init Lab is obligated to follow its Regulations.
 3. *Visitors* are all people that happen to be in init Lab no matter if they are
    Members or not.
-4. The Regulations are dynamic and can be changed at any time by the
-   Council. The Regulations' current version will always be available at
-   [http://initlab.org/правилник/](http://initlab.org/правилник/).
+4. The Regulations are dynamic and can be changed at any time by the Managing
+   Council (the Council). The Regulations' current version will always be
+   available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
 5. For every case which is not mentioned in the Regulations, the Council can
    amend the Regulations and the amendments enter into force immediately.
 6. The English version of the Regulations you are now reading is to be used for
