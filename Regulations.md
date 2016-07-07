@@ -7,9 +7,9 @@
 2. Every Visitor of init Lab is obligated to follow its Regulations.
 3. *Visitors* are all people that happen to be in init Lab no matter if they are
    Members or not.
-4. The Regulations are dynamic and can be changed at any time by the
-   Council. The Regulations' current version will always be available at
-   [http://initlab.org/правилник/](http://initlab.org/правилник/).
+4. The Regulations are dynamic and can be changed at any time by the Managing
+   Council (the Council). The Regulations' current version will always be
+   available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
 5. For every case which is not mentioned in the Regulations, the Council can
    amend the Regulations and the amendments enter into force immediately.
 6. The English version of the Regulations you are now reading is to be used for
@@ -33,7 +33,7 @@
    their delay, they own a Membership Subscription for the month and need to
    return their key regardless.
 7. The Council may decide to prohibit access to init Lab of a problematic
-   Visitor after voting, approved or attended by root.
+   Visitor after voting.
 8. Members sign the Membership Book of init Lab, with which they declare that
    they aware of and agree with the Regulations.
 9. Members who have access to init Lab (using keys or derived technology) must
@@ -70,22 +70,20 @@
 
 ## Management
 
-1. The Council of init Lab consists of five people. Four members of the
-   organisation and root.
-2. root is the person who takes full responsibility for init Lab to the property
-   owner and the public.
-3. root is Vladimir Yordanov Vassilev.
-4. Members of The Council are responsible for ensuring and improving working
+1. The Council of init Lab consists of five people which are members of the
+   organisation.
+2. Vladimir Yordanov Vassilev is the person who takes full responsibility for
+   init Lab to the property owner.
+3. Members of init Lab are responsible for ensuring and improving working
    conditions and security of the physical space, fixing damage caused to
    equipment and furniture.
-5. root is responsible for the reporting of revenue and expenditure of init Lab.
-6. Members of the Council are elected and excluded with a voted Council decision
-   approved or attended by root.
-7. If there is conflict between Members, arbitrator is root or the Council.
-8. Decisions of the Council are taken into action if at least 2 Council Members
+4. The Council is responsible for the reporting of revenue and expenditure of
+   init Lab.
+5. Members of the Council are elected and excluded by a decision of the general
+   meeting of the members of init Lab.
+6. If there is conflict between Members, arbitrator is the Council.
+7. Decisions of the Council are taken into action if at least 2 Council Members
    voted 'FOR', and no Council Members voted 'AGAINST'.
-9. A valid decision taken by the Council is one where at least 50% of the
-   Council Members have voted or root has participated in the vote.
-10. root can veto any decision made by the Council.
-11. Upon withdrawal, root solely decides who should be his successor.
-12. The Council must publish any decision it has made on init Lab's website.
+8. A valid decision taken by the Council is one where at least 3 of the Council
+   Members have voted.
+9. The Council must publish any decision it has made on init Lab's website.
