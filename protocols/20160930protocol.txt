@@ -1,0 +1,68 @@
+Събрание на Управителния съвет на initLab, 30 септември 2016
+============================================================
+
+Присъстват от УС
+* Васил Колев
+* Марио Мишев
+* Петко Борджуков
+* Владимир Василев
+
+Присъстват членове:
+* Любо
+* Иво
+* Петър
+
+
+1. Съдбата на bob.initlab.org
+
+* Поръчан е HP MicroServer, който ще дойде във вторник
+* Марио предлага новият сървър да се инсталира наново – Васил се съгласява с коментари
+* Марио пита Искаме ли ZFS – Петко и Васил са против
+* Storage 2xHGST 1TB UltraStar
+
+2. recurring хакатони на лаба
+* УС е ЗА
+
+3. fauna
+* Петър иска във fauna да се логва и позвъняване на вратата
+* ПИН за отключване на лаба
+
+4. Преглед на github issue-тата
+
+  ignisf commented on issue initLab/initLab#141
+      Имам одобрение, действам
+
+  Merged pull request initLab/initLab#86
+
+  Merged pull request initLab/initLab#139
+
+  Merged pull request initLab/initLab#140
+
+  Closed pull request initLab/initLab#142
+
+  vlood closed issue initLab/initLab#147
+
+  vlood commented on issue initLab/initLab#128
+      Ще си поръчвам тениски за мен от drinkozavar.com (другарче ми е), та ако стават и са яки, можем да планираме нещо по-мащабно с тях.
+
+  isld commented on issue initLab/initLab#126
+      http://www.cws-boco.bg/bg-BG/node/3973
+
+  vlood closed issue initLab/initLab#116
+
+  vlood commented on issue initLab/initLab#78
+      Храсталаците са омачкани, ще трябва да ги изнесем след ремонтите на Топлофикация
+
+  vlood opened issue initLab/initLab#150
+
+  ignisf commented on issue initLab/initLab#40
+      Засега работи, когато (ако) решим да го оставим само него, ще отворим ново ишу
+
+  ignisf closed issue initLab/initLab#40
+  vlood closed issue initLab/initLab#66
+  vlood commented on issue initLab/initLab#24
+      Да се провери състонието на прозореца и дали и как може да се позакрепи положението за зимата
+
+  krokodilerian commented on issue initLab/initLab#1
+      @vlood ще ходи в понеделник пак, че днес касата работела само до 2.
+
