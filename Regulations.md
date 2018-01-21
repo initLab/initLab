@@ -20,6 +20,7 @@
 
 1. A Member is a visitor who paid their Membership Subscription for that month.
 2. The *minimum* Membership Subscription per month is 30 leva.
+   A reduced Membership Subscription of 10 leva is available to pupils.
 3. A new Member's obligation is to bring their own cup, which represents them in
    their absence.
 4. Each member is required to pay their Membership Subscription in the last week
