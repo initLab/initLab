@@ -1,9 +1,0 @@
-Дневен ред:
-
-- Покана от Светлин Наков за Софтуниада 2020
-- Инвентарна система - състояние и план за действие
-- Отговорности/дежурене за събитията на Лаба
-- Представяне на Лаба в ТУЕС
-- Wishlist за събития през 2020 (Aaron Schwartz day, Arduino day, Linux install-fest, board games, LAN parties, hackathons, etc)
-- GitHub issues
-- Recap на годината
