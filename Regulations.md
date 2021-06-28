@@ -1,5 +1,9 @@
 # Regulations of init Lab
 
+THIS DOCUMENT IS OUTDATED - see the Bulgarian version.
+
+(We will update it soon).
+
 ## General
 
 1. The Regulations of init Lab inherit and expand the laws of the country of
