@@ -1,94 +1,75 @@
 # Regulations of init Lab
 
-THIS DOCUMENT IS OUTDATED - see the Bulgarian version.
-
-(We will update it soon).
-
 ## General
 
-1. The Regulations of init Lab inherit and expand the laws of the country of
-   Bulgaria.
-2. Every Visitor of init Lab is obligated to follow its Regulations.
-3. *Visitors* are all people that happen to be in init Lab no matter if they are
-   Members or not.
-4. The Regulations are dynamic and can be changed at any time by the Managing
-   Council (the Council). The Regulations' current version will always be
-   available at [http://initlab.org/правилник/](http://initlab.org/правилник/).
-5. For every case which is not mentioned in the Regulations, the Council can
-   amend the Regulations and the amendments enter into force immediately.
-6. The English version of the Regulations you are now reading is to be used for
-   convenience only. The only valid Regulations are those in Bulgarian published
-   at [http://initlab.org/правилник/](http://initlab.org/правилник/).
+1. (1) These Regulations governs the terms and way to use init Lab.
+(2) For every question, which are not explicitly stated in these Regulations, The init Lab Council may make resolutions in accordance with the Bulgarian and European laws.
+(3) In case of discrepancy between these Regulations or the decisions of the init Lab Council on one side and the Bulgarian/European laws on the other, preference takes the laws.
+
+2. (1) These Regulations can be changed and expanded by the management bodies of the Association and enter into force a month following the publication of the changes. Official up-to-date version of the Regulations is accessible from [http://initlab.org/правилник/](http://initlab.org/правилник/)
+( The English version of the Regulations you are now reading is to be used for convenience only. The only valid Regulations are those in Bulgarian published)
+(2) The last changes are from 28.06.2021.
+
+3. (1) The init Lab initiative includes creation, maintenance, development and use of the hackerspace located in Sofia, Bulgaria.
+(2) The init Lab initiative is performed by "INIT LAB" Association (company identifier 176293464, provided by Bulgarian Registry Agency) with official address at "Tzar Asen" str, №64A, floor 3, Sofia, Bulgaria, represented by Vladimir Vasilev, which can be contacted at the aforementioned address or by email at us@initlab.org
+
+4. (1) Every Visitor of init Lab is obligated to follow its Regulations.
+(1) Visitors are all people that happen to be in init Lab no matter if they are Members or not.
 
 ## Membership
 
-1. A Member is a visitor who paid their Membership Subscription for that month.
-2. The *minimum* Membership Subscription per month is 30 leva.
-   A reduced Membership Subscription of 10 leva is available to pupils.
-3. A new Member's obligation is to bring their own cup, which represents them in
-   their absence.
-4. Each member is required to pay their Membership Subscription in the last week
-   of the month, or to warn the Council that their Membership Subscription will
-   be withdrawn for the next month.
-5. Non-payment of Membership Subscription by the end of the month ends a
-   Membership until the next payment.
-6. Members of init Lab who have a key are required to pay their Membership
-   Subscription before the end of the first week of the month or to return their
-   key in the same period. If a Member fails to do this without warning prior to
-   their delay, they own a Membership Subscription for the month and need to
-   return their key regardless.
-7. The Council may decide to prohibit access to init Lab of a problematic
-   Visitor after voting.
-8. Members sign the Membership Book of init Lab, with which they declare that
-   they aware of and agree with the Regulations.
-9. Members who have access to init Lab (using keys or derived technology) must
-   register in fauna.initlab.org to reflect their presence while they are in
-   init Lab.
-10. Each Member is added to the Members' mailing list and is irradiated with the
-    important happenings in init Lab.
+5. (1) A member is a visitor who paid their Membership Subscription for that month.
+(2) The *minimum* Membership Subscription per month is 30 leva.  A reduced Membership Subscription of 10 leva is available to pupils until the completion of their secondary education.
+(3) Every member signs the Membership Book of init Lab, with which they declare that they aware of, understand, and agree with, and bounds to obey these Regulations.
+
+6. Each member is required to pay their Membership Subscription before the start of the month for which the subscription applies; or to warn the Council that their Membership Subscription will be withdrawn for the next month.
+(2) Non-payment of Membership Subscription by the end of the month ends terminates the membership until the next payment.
+
+7. Each member is added to the Members' mailing list and is irradiated with the important happenings in init Lab.
+
+BEGIN FIXME
+8. (1) By decision of the init Lab coucil, members of init Lab may be approved to have keys for access to the init Lab premises.
+(2) Every member with access key is required to pay the member subscription before the end of the first week of the month; or to return their key in the same period.
+(3) If a Member fails to comply withe the previous clause, the member is required to pay the membership subscription for the month and return the key, unless a notification was given beforehand.
+
+9. Members who have access to init Lab (using keys or derived technology) must register in fauna.initlab.org to reflect their presence while they are in init Lab premises.
+
+10. (1) By decision made by the init Lab Council, the access to init Lab of a problematic visitor can be suspended.
+(2) By decision made by the init Lab Council, init Lab access keys can be requisitioned / revoked.
 
 ## Hygiene
 
-1. Every Visitor is obliged to leave init Lab in the same or better state than
-   the one they found it in.
-2. *Smoking* in init Lab is prohibited.
-3. Placing *and using narcotic substances and drugs are* STRICTLY prohibited.
-4. In the working areas of init Lab listening to music without headphones is
-   allowed only if this is OK with everyone else.
-5. Noise pollution is a mortal enemy of init Lab's settlement system!
-6. Food without label in the refrigerator, absent from the price list of the
-   buffet, can be consumed freely, and on Friday evening thrown away without
-   warning.
+11. Every Visitor in the init Lab premises is obliged to leave premises in the same or better state than the one they found it in.
+12. (1) *Smoking* in init Lab is prohibited.
+(2). Placing *and using narcotic substances and drugs are* STRICTLY prohibited.
+(3) Violation of these prohibitions will be result in the repercussions of article 10.
+
+13. In the working areas of init Lab listening to music without headphones is allowed only if this is OK with everyone else. Noise pollution is a mortal enemy of init Lab's settlement system!
+
+14. Food without label in the refrigerator, absent from the price list of the buffet, can be consumed freely, and on Friday evening thrown away without warning.
 
 ## Resources
 
-1. init Lab Resources are those items that are left for use in init Lab and have
-   no explicit owner.
-2. Resources are used by all Visitors of init Lab, as Members have priority.
-3. Each of init Lab's financial operations is transparent to Members of init Lab
-   and the society. All reports are published at
-   [http://initlab.org/about/reports/](http://initlab.org/about/reports/).
-4. All expenses of init Lab approved by the Council are covered by init Lab's
-   financial funds currently available or soon to be available.
-5. *Keys and codes* for the security system are available *only for Council
-   approved members*.
+15. (1) init Lab Resources are those items that are left for permanent use in init Lab area and have no explicit owner.
+(2) Resources are used by all visitors of init Lab, as members have priority.
+
+16. (1) Each of init Lab's financial operations is transparent to Members of init Lab and the society.
+(2) All reports are published at [http://initlab.org/about/reports/](http://initlab.org/about/reports/).
+
+17. (1) All expenses of init Lab, approved by the Council, are covered by init Lab's financial funds currently available or soon to be available.
+(2) The "INIT LAB" Association is responsible for the acquirement, disbursement and reporting of init Lab's financial funds. The management bodies of "INIT LAB" can veto the decisions made by the management counsil.
 
 ## Management
 
-1. The Council of init Lab consists of five people which are members of the
-   organisation.
-2. Vladimir Yordanov Vassilev is the person who takes full responsibility for
-   init Lab to the property owner.
-3. Members of init Lab are responsible for ensuring and improving working
-   conditions and security of the physical space, fixing damage caused to
-   equipment and furniture.
-4. The Council is responsible for the reporting of revenue and expenditure of
-   init Lab.
-5. Members of the Council are elected and excluded by a decision of the general
-   meeting of the members of init Lab.
-6. If there is conflict between Members, arbitrator is the Council.
-7. Decisions of the Council are taken into action if at least 2 Council Members
-   voted 'FOR', and no Council Members voted 'AGAINST'.
-8. A valid decision taken by the Council is one where at least 3 of the Council
-   Members have voted.
-9. The Council must publish any decision it has made on init Lab's website.
+18. (1) Five of the members of "INIT LAB" Association, elected by the general assembly, form the init Lab Council.
+(2) The init Lab Council is responsible for reporting the revenues and expenses of init Lab.
+(3) The init Lab Council is the arbiter in case of conflict between members.
+(4) The init Lab Council takes all decisions regarding the management of init Lab, in accordance with decisions of the management bodies of the "INIT LAB" Association.
+
+19. The chairman of the "INIT LAB" Association represents init Lab with respect to the landlords, utility providers, and others.
+
+20. Every member of init Lab is responsible for ensuring and improving working conditions and security of the physical space, fixing damage caused to equipment and furniture in the init Lab premises.
+
+21. (1) Decisions of the init Lab Council are made if at least 2 council members voted 'For', and no council members voted 'Against'.
+(2) Decision made by the init Lab Council is valid when at least 3 of the council members have voted.
+(3) All decisions of the init Lab Council are published on init Lab's official website.
