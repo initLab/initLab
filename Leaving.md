@@ -2,6 +2,7 @@ Checklist for the last person to leave the lab
 ==============================================
 
 * Close all windows
+* Turn off all air conditioners. (Or leave them to the seasonal setting.)
 * Turn off all the lights inside.
 * Close the doors.
 * Go down to the entrance door.
