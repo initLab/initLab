@@ -36,7 +36,3 @@ Printing meaningful asset labels is a feature important enough to be separated i
 - Configurable label paper (size, label quantity, spacing, etc)
 - Selectable starting label (for semi-used label papers)
 - Selectable dynamic label quantity (like 'quantity' database field)
-
-initVentar is being discussed in [issue 81](https://github.com/initLab/initLab/issues/81) in initLab's issue tracker.
-
-
